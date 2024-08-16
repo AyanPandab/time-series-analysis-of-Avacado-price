@@ -20,3 +20,7 @@ XLarge Bags : Extra Large Bags
 type : conventional or organic
 year : year of the date
 region : the city or region of the observation
+
+
+
+https://www.kaggle.com/code/tanmay111999/avocado-price-forecast-arima-sarima-detailed/input
